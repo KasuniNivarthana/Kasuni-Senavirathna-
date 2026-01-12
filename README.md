@@ -26,5 +26,5 @@
 ---
 
 ### 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Email: yourname@email.com
+- LinkedIn:   https://www.linkedin.com/in/kasuni-s-ba653b203
+- Email: nivasenavirathna@gmail.com
