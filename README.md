@@ -4,37 +4,24 @@
 
 - 🧪 Manual Testing | Test Case Design | Bug Reporting  
 - 🤖 Automation Testing (Learning – Selenium)  
-- 🔍 Passionate about delivering high-quality, user-friendly software  
-- 🌱 Actively seeking a QA internship / junior QA opportunity  
+- 🌱 Actively building and learning in 2025  
+- 🎯 Seeking QA internship / junior QA opportunity  
 
 ---
 
 ### 🛠 Tools & Technologies
 - Manual Testing  
 - Postman  
-- Selenium (Learning)  
-- Jira  
+- Selenium (Learning)   
 - GitHub  
 
 ---
 
-### 📊 GitHub Stats
-![Kasuni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KasuniNivarthana&show_icons=true&theme=default)
+## 📅 My 2025 GitHub Activity
 
----
+> Showing only my work and learning contributions from **2025**
 
-### 🌐 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KasuniNivarthana&layout=compact)
-
----
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=KasuniNivarthana)
-
----
-
-### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KasuniNivarthana)
+![2025 GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=KasuniNivarthana&from=2025-01-01&to=2025-07-31)
 
 ---
 
